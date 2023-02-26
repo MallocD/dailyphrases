@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sm_primary90">#ffddb9</color>
+    <color name="sm_primary80">#ffb963</color>
+    <color name="sm_primary30">#663e00</color>
+    <color name="sm_primary20">#472a00</color>
+
+    <color name="sm_secondary90">#fdddbd</color>
+    <color name="sm_secondary80">#dfc1a2</color>
+    <color name="sm_secondary25">#58432b</color>
+    <color name="sm_secondary20">#3f2d17</color>
+</resources>
